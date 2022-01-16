@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am working on theoretical & computational plasma physics, laser-plasma physics. Find more about my experience and research here: https://fyli16.github.io/
+
 <!--
 **fyli16/fyli16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
